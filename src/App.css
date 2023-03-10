@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+ flex-direction: row;
+}
+.sub-container{
+  background: linear-gradient(to bottom right ,rgb(29, 4, 64) 10%, rgb(80, 5, 99) 28%, rgb(32, 88, 145)40%,rgb(39, 4, 65)70%);
+  width:500px;
+  height:737px;
+  /* justify-content: left; */
+}
+.sub-container2{
+  align-self: center;
+  margin-left: 400px;
+} 
+.card-form{
+align-items: center;
+}
